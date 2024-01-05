@@ -1,0 +1,595 @@
+[
+    {
+      "id": 0,
+      "GstName": "John Doe",
+      "phone": "+441000155601",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 1,
+      "GstName": "Mark Fredman",
+      "phone": "+441000155602",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Unpaid",
+        "style": {
+          "color": "#ed7f88",
+          "borderRadius": "10%",
+          "border": "2px solid #ed7f88",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#fee4e3",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 2,
+      "GstName": "Benjamin Schwarze",
+      "phone": "+441000155603",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 3,
+      "GstName": "Justin Frank",
+      "phone": "+441000155604",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 4,
+      "GstName": "Fredrick Faw",
+      "phone": "+441000155605",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 5,
+      "GstName": "Tbag",
+      "phone": "+441000155606",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 6,
+      "GstName": "karl John",
+      "phone": "+441000155607",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 7,
+      "GstName": "Gabriel Oak",
+      "phone": "+441000155608",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "28/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 8,
+      "GstName": "Hassan Ali",
+      "phone": "+441000155609",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "27/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 9,
+      "GstName": "Mohamed Hussien",
+      "phone": "+441000155610",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "27/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 10,
+      "GstName": "Menna Saeed",
+      "phone": "+441000155611",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "27/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 11,
+      "GstName": "Amir Fahmy",
+      "phone": "+441000155612",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "27/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+
+    {
+      "id": 12,
+      "GstName": "Justin Frank",
+      "phone": "+441000155604",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "29/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 13,
+      "GstName": "Fredrick Faw",
+      "phone": "+441000155605",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "29/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 14,
+      "GstName": "Tbag",
+      "phone": "+441000155606",
+      "StName": "Stylist Name",
+      "Center": "Home",
+      "AddDate": "29/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    },
+    {
+      "id": 15,
+      "GstName": "karl John",
+      "phone": "+441000155613",
+      "StName": "Stylist Name",
+      "Center": "Salon",
+      "AddDate": "29/10/2022",
+      "FromTime": "11:00",
+      "ToTime": "12:00 PM",
+      "Service": [
+        {
+          "id": 0,
+          "Name": "HairCut",
+          "Price": 250
+        },
+        {
+          "id": 1,
+          "Name": "Nail Paint",
+          "Price": 250
+        },
+        {
+          "id": 2,
+          "Name": "MakeUp",
+          "Price": 250
+        }
+      ],
+      "Status": {
+        "text": "Paid",
+        "style": {
+          "color": "#64ad5b",
+          "borderRadius": "10%",
+          "border": "2px solid #64ad5b",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "bold",
+          "backgroundColor": "#eef6e9",
+          "lineHeight": "2",
+          "padding": "0.2em"
+        }
+      },
+      "FilterMode": ""
+    }
+  ]
