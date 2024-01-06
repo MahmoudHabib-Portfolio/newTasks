@@ -1,5 +1,4 @@
-{
-    "tasks": [
+[
     {
         "id": 0,
         "TaskN": "Attend a Training",
@@ -109,4 +108,3 @@
         "FilterMode": ""
     }
 ]
-}
